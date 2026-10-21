@@ -1565,3 +1565,7 @@ a.btn-link.text-light:after {
   background-size: cover;
   transition: transform .3s ease-out;
 }
+/* Hide arrow icons */
+.icon-arrow {
+  display: none !important;
+}
